@@ -2,5 +2,9 @@
 
 > Bazar isn't as messy as you think it is...
   
-## Summary
+## Categories
 
+* Pentest
+* Red Team
+* Linux
+* Misc
