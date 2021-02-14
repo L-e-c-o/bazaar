@@ -1,6 +1,6 @@
 # Bazar
 
-> Bazar isn't as messy as you think it is...
+> Bazar isn't as messy as you think it is 📝
   
 ## Categories
 
