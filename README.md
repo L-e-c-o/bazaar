@@ -1,6 +1,6 @@
-# Bazar
+# Bazaar
 
-Bazar is a place to share miscellaneous links related to cybersecurity and more.
+Bazaar is a place to share miscellaneous links related to cybersecurity and more.
   
 Table of Contents
 =================
