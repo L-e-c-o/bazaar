@@ -12,7 +12,7 @@ Table of Contents
 
 ## [↑](#table-of-contents) Pentest
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : A list of useful payloads and bypasses
 * [GTFOBins](https://gtfobins.github.io/)
 * [LOLBAS](https://lolbas-project.github.io/)
 * [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb)
