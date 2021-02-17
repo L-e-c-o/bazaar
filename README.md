@@ -42,5 +42,8 @@ Table of Contents
 * [ewmh-m2m](https://pypi.org/project/ewmh-m2m/) : Python script to move windows from one monitor to a other in Xfce
 * [move-to-next-monitor](https://github.com/jc00ke/move-to-next-monitor) : Bash script to move windows from one monitor to the next
 
+## [↑](#tbles-of-contents) Offensive programming
+* [OffensiveNIM](https://github.com/byt3bl33d3r/OffensiveNim) : Weaponizing Nim for implant development and general offensive operations
+
 ## [↑](#table-of-contents) Misc
 * [Skeleton Key](https://pentestlab.blog/2018/04/10/skeleton-key/) : The Skeleton Key is a malware which is stored
