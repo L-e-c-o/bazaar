@@ -19,7 +19,9 @@ Table of Contents
 
 ## [↑](#table-of-contents) Red Team
 
-* [Awesome Red Teaming - List of Awesome Red Team resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) :  List of Awesome Red Team resources
+* [DEFCON 2020 - Windows Rootkits](https://www.youtube.com/watch?v=1H9tEfkjFXs) : Demystify the process of writing a Windows rootkit
+* [C2 - shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
 
 ## [↑](#table-of-contents) Linux
 
