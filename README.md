@@ -1,8 +1,8 @@
 # Bazar
 
-> Bazar isn't as messy as you think it is 📝
+Bazar is a place to share miscellaneous links related to the IT world.
   
-## Categories
+## Table of Content
 
 * Pentest
 * Red Team
