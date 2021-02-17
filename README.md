@@ -38,5 +38,7 @@ Table of Contents
 * [shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
 
 ## [↑](#table-of-contents) Linux
+* [ewmh-m2m](https://pypi.org/project/ewmh-m2m/) : Python script to move windows from one monitor to a other in Xfce
+* [move-to-next-monitor](https://github.com/jc00ke/move-to-next-monitor) : Bash script to move windows from one monitor to the next
 
 ## [↑](#table-of-contents) Misc
