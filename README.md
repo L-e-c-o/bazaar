@@ -1,8 +1,8 @@
 # Bazar
 
-Bazar is a place to share miscellaneous links related to the IT world.
+Bazar is a place to share miscellaneous links related to cybersecurity and more.
   
-## Table of Content
+# Table of Content
 
 * Pentest
 * Red Team
