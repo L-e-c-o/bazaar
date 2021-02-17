@@ -6,7 +6,9 @@ Table of Contents
 =================
 
 * [Pentest](#-pentest)
-* [Red Team](#-red-team)
+
+<details>
+  <summary>* [Red Team](#-red-team)</summary>
   * Initial Access
   * Execution
   * Persistence
@@ -17,6 +19,7 @@ Table of Contents
   * Lateral Movement
   * Exfiltration
   * Command and Control
+</details>
 * [Linux](#-linux)
 * [Misc](#-misc)
 
