@@ -34,7 +34,7 @@ Table of Contents
 
 ### Command and Control
 
-* [C2 - shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
+* [shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
 
 ## [↑](#table-of-contents) Linux
 
