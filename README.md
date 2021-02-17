@@ -8,7 +8,8 @@ Table of Contents
 * [Pentest](#-pentest)
 
 <details>
-  <summary>* [Red Team](#-red-team)</summary>
+  <summary>[Red Team](#-red-team)</summary>
+  
   * Initial Access
   * Execution
   * Persistence
