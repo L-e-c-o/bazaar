@@ -13,6 +13,9 @@ Table of Contents
 ## [↑](#table-of-contents) Pentest
 
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [GTFOBins](https://gtfobins.github.io/)
+* [LOLBAS](https://lolbas-project.github.io/)
+* [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb)
 
 ## [↑](#table-of-contents) Red Team
 
