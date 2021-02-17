@@ -7,6 +7,16 @@ Table of Contents
 
 * [Pentest](#-pentest)
 * [Red Team](#-red-team)
+  * Initial Access
+  * Execution
+  * Persistence
+  * Privilege Escalation
+  * Evasion
+  * Credential Access
+  * Discovery
+  * Lateral Movement
+  * Exfiltration
+  * Command and Control
 * [Linux](#-linux)
 * [Misc](#-misc)
 
