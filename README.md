@@ -13,9 +13,9 @@ Table of Contents
 ## [↑](#table-of-contents) Pentest
 
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : A list of useful payloads and bypasses
-* [GTFOBins](https://gtfobins.github.io/)
-* [LOLBAS](https://lolbas-project.github.io/)
-* [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb)
+* [GTFOBins](https://gtfobins.github.io/) : GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
+* [LOLBAS](https://lolbas-project.github.io/) : Similar to GTFOBins but for windows binary's 
+* [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb) : 
 
 ## [↑](#table-of-contents) Red Team
 
