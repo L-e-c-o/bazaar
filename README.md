@@ -31,6 +31,7 @@ Table of Contents
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) :  List of Awesome Red Team resources
 * [DEFCON 2020 - Windows Rootkits](https://www.youtube.com/watch?v=1H9tEfkjFXs) : Demystify the process of writing a Windows rootkit
+* [RFID Proximity Cloning Attacks](https://www.blackhillsinfosec.com/rfid-proximity-cloning-attacks/) : RFID attacks explained with examples
 
 ### Command and Control
 
