@@ -6,22 +6,17 @@ Table of Contents
 =================
 
 * [Pentest](#-pentest)
-
-<details>
-  <summary><a href="#-red-team">Red Team</a></summary>
-  
-  * Initial Access
-  * Execution
-  * Persistence
-  * Privilege Escalation
-  * Evasion
-  * Credential Access
-  * Discovery
-  * Lateral Movement
-  * Exfiltration
-  * Command and Control
-</details>
-
+* [Red Team](#-red-team)
+  * [Initial Access](#-initial-access)
+  * [Execution](#-execution)
+  * [Persistence](#-persistence)
+  * [Privilege Escalation](#-privilege-escalation)
+  * [Defense Evasion](#-defense-evasion)
+  * [Credential Access](#-credential-access)
+  * [Discovery](#-discovery)
+  * [Lateral Movement](#-lateral-movement)
+  * [Exfiltration](#-exfiltration)
+  * [Command and Control](#-command-and-control)
 * [Linux](#-linux)
 * [Misc](#-misc)
 
