@@ -28,7 +28,7 @@ Table of Contents
 * [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb) :  FuzzDB contains comprehensive lists of attack payload primitives for fault injection testing
 
 [](#table-of-contents) Active Directory attacks
-* [Kerberoasting](https://beta.hackndo.com/kerberoasting/) : 
+* [hackndo](https://beta.hackndo.com/kerberoasting/) : A very details blog covering somes Actives Directory's attacks
 
 ## [↑](#table-of-contents) Red Team
 
