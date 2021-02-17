@@ -42,3 +42,4 @@ Table of Contents
 * [move-to-next-monitor](https://github.com/jc00ke/move-to-next-monitor) : Bash script to move windows from one monitor to the next
 
 ## [↑](#table-of-contents) Misc
+* [Skeleton Key](https://pentestlab.blog/2018/04/10/skeleton-key/) : The Skeleton Key is a malware which is stored
