@@ -8,7 +8,7 @@ Table of Contents
 * [Pentest](#-pentest)
 
 <details>
-  <summary>[Red Team](#-red-team)</summary>
+  <summary><a href="#-red-team">Red Team</a></summary>
   
   * Initial Access
   * Execution
@@ -21,6 +21,7 @@ Table of Contents
   * Exfiltration
   * Command and Control
 </details>
+
 * [Linux](#-linux)
 * [Misc](#-misc)
 
