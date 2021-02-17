@@ -52,3 +52,4 @@ Table of Contents
 
 ## [↑](#table-of-contents) Misc
 * [Skeleton Key](https://pentestlab.blog/2018/04/10/skeleton-key/) : The Skeleton Key is a malware which is stored
+* [Using ICMP to deliver shellcode](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Blog about using ICMP for shellcode delivery
