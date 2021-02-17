@@ -26,7 +26,9 @@ Table of Contents
 * [GTFOBins](https://gtfobins.github.io/) : List of Unix binaries that can used to bypass local security restrictions
 * [LOLBAS](https://lolbas-project.github.io/) : Similar to GTFOBins but for windows binary's 
 * [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb) :  FuzzDB contains comprehensive lists of attack payload primitives for fault injection testing
-### [↑](#table-of-contents) Active Directory attacks
+
+(#table-of-contents) Active Directory attacks
+* [Kerberoasting](https://beta.hackndo.com/kerberoasting/) : 
 
 ## [↑](#table-of-contents) Red Team
 
