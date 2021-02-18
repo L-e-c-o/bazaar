@@ -29,6 +29,7 @@ Table of Contents
 * [Using ICMP to deliver shellcode](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Blog about using ICMP for shellcode delivery
 * [Antivirus Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts) : List of API hooks by major antiviruses
 * [iRed.team](https://www.ired.team/) : Great Red Team resources with lot of techniques
+* [AMSI.fail](https://amsi.fail/) : Generates obfuscated PowerShell snippets that break or disable AMSI for the current process.
 
 ## [↑](#table-of-contents) Cobalt Strike
 
