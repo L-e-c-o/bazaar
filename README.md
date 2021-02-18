@@ -7,6 +7,7 @@ Table of Contents
 
 * [Pentest](#-pentest)
 * [Red Team](#-red-team)
+* [Cobalt Strike](#-cobal-strike)
 * [Linux](#-linux)
 * [Misc](#-misc)
 
@@ -25,8 +26,21 @@ Table of Contents
 * [Chimera](https://www.kitploit.com/2021/02/chimera-shiny-and-very-hack-ish.html) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
 * [C2 - shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
 * [C2 - Sliver](https://github.com/BishopFox/sliver) : Cross-platform (Go) adversary simulation/red team platform
-* [SharpLAPS](https://github.com/swisskyrepo/SharpLAPS) :  Retrieve the LAPS password from the Active Directory within Cobalt Strike session using execute-assembly
 * [Using ICMP to deliver shellcode](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Blog about using ICMP for shellcode delivery
+* [Antivirus Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts) : List of API hooks by major antiviruses
+* [iRed.team](https://www.ired.team/) : Great Red Team resources with lot of techniques
+
+## [↑](#table-of-contents) Cobalt Strike
+
+* [ScareCrow](https://github.com/optiv/ScareCrow) : Payload creation framework with EDR bypass
+* [PEzor](https://github.com/phra/PEzor) : Generate artifacts with defense evasion
+* [SharpLAPS](https://github.com/swisskyrepo/SharpLAPS) :  Retrieve the LAPS password from the Active Directory within Cobalt Strike session using execute-assembly
+* [Aggressor Assessor](https://github.com/FortyNorthSecurity/AggressorAssessor) : List of useful scripts
+* [C2concealer](https://github.com/FortyNorthSecurity/C2concealer) : Random C2 malleable profiles generator
+* [Geacon](https://github.com/darkr4y/geacon) : Cobalt Strike's beacon implementation in Go
+* [365CS](https://github.com/0e0w/365CS) : Best Cobalt Strike related resources
+* [BOF Collection](https://github.com/rvrsh3ll/BOF_Collection) : Collection of useful Beacon Objet Files (BOF)
+* [Cobalt Strike BOF](https://github.com/Yaxser/CobaltStrike-BOF) : Another collection of beacon BOF
 
 ## [↑](#table-of-contents) Linux
 
