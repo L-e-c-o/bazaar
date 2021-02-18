@@ -48,6 +48,7 @@ Table of Contents
 ### Command and Control
 
 * [shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
+* [Sliver](https://github.com/BishopFox/sliver) : Cross-platform (Go) adversary simulation/red team platform
 * [SharpLAPS](https://github.com/swisskyrepo/SharpLAPS) :  Retrieve the LAPS password from the Active Directory within Cobalt Strike session using execute-assembly
 
 ## [↑](#table-of-contents) Linux
