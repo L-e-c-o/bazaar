@@ -30,6 +30,7 @@ Table of Contents
 * [Antivirus Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts) : List of API hooks by major antiviruses
 * [iRed.team](https://www.ired.team/) : Great Red Team resources with lot of techniques
 * [AMSI.fail](https://amsi.fail/) : Generates obfuscated PowerShell snippets that break or disable AMSI for the current process.
+* [C2 - SharpC2](https://github.com/SharpC2/SharpC2) : .NET Command & Control Framework by RastaMouse
 
 ## [↑](#table-of-contents) Cobalt Strike
 
