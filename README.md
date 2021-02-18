@@ -6,6 +6,7 @@ Table of Contents
 =================
 
 * [Pentest](#-pentest)
+  * [Active Directory Attacks](#active-directory-attacks)
 * [Red Team](#-red-team)
   * [Initial Access](#initial-access)
   * [Execution](#execution)
@@ -25,18 +26,24 @@ Table of Contents
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : A list of useful payloads and bypasses
 * [Hack Tricks](https://book.hacktricks.xyz/) :  Typical flow that you should follow when pentesting one or more machines
 * [GTFOBins](https://gtfobins.github.io/) : List of Unix binaries that can used to bypass local security restrictions
-* [LOLBAS](https://lolbas-project.github.io/) : Similar to GTFOBins but for windows binary's 
-* [fuzzdb-project](https://github.com/fuzzdb-project/fuzzdb) :  FuzzDB contains comprehensive lists of attack payload primitives for fault injection testing
-* [Chimera](https://www.kitploit.com/2021/02/chimera-shiny-and-very-hack-ish.html) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
+* [LOLBAS](https://lolbas-project.github.io/) : Similar to GTFOBins but for Windows binary's 
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) :  FuzzDB contains comprehensive lists of attack payload primitives for fault injection testing
 
-[](#table-of-contents) Active Directory attacks
-* [hackndo](https://beta.hackndo.com/kerberoasting/) : A very details blog covering somes Actives Directory's attacks
+### Active Directory attacks
+
+* [Hackndo](https://beta.hackndo.com/kerberoasting/) : A very detailled blog covering somes Actives Directory's attacks
 
 ## [↑](#table-of-contents) Red Team
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) :  List of Awesome Red Team resources
-* [DEFCON 2020 - Windows Rootkits](https://www.youtube.com/watch?v=1H9tEfkjFXs) : Demystify the process of writing a Windows rootkit
+
+### Initial Access
+
 * [RFID Proximity Cloning Attacks](https://www.blackhillsinfosec.com/rfid-proximity-cloning-attacks/) : RFID attacks explained in details with examples
+
+### Defense Evasion
+
+* [Chimera](https://www.kitploit.com/2021/02/chimera-shiny-and-very-hack-ish.html) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
 
 ### Command and Control
 
