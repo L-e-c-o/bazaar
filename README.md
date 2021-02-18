@@ -26,7 +26,7 @@ Table of Contents
 * [Chimera](https://www.kitploit.com/2021/02/chimera-shiny-and-very-hack-ish.html) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
 * [C2 - shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
 * [C2 - Sliver](https://github.com/BishopFox/sliver) : Cross-platform (Go) adversary simulation/red team platform
-* [Shellcode delivery through ICMP](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Blog about using ICMP for shellcode delivery
+* [Shellcode delivery through ICMP](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Article about using ICMP for shellcode delivery
 * [Antivirus Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts) : List of API hooks by major antiviruses
 * [iRed.team](https://www.ired.team/) : Great Red Team resources with lot of techniques
 * [AMSI.fail](https://amsi.fail/) : Generates obfuscated PowerShell snippets that break or disable AMSI for the current process.
