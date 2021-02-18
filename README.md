@@ -22,10 +22,9 @@ Table of Contents
 ## [↑](#table-of-contents) Red Team
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) :  List of Awesome Red Team resources
-* [RFID Proximity Cloning Attacks](https://www.blackhillsinfosec.com/rfid-proximity-cloning-attacks/) : RFID attacks explained in details with examples
 * [Chimera](https://www.kitploit.com/2021/02/chimera-shiny-and-very-hack-ish.html) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
-* [shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
-* [Sliver](https://github.com/BishopFox/sliver) : Cross-platform (Go) adversary simulation/red team platform
+* [C2 - shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
+* [C2 - Sliver](https://github.com/BishopFox/sliver) : Cross-platform (Go) adversary simulation/red team platform
 * [SharpLAPS](https://github.com/swisskyrepo/SharpLAPS) :  Retrieve the LAPS password from the Active Directory within Cobalt Strike session using execute-assembly
 * [Using ICMP to deliver shellcode](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Blog about using ICMP for shellcode delivery
 
@@ -40,4 +39,5 @@ Table of Contents
 
 ## [↑](#table-of-contents) Misc
 
+* [RFID Proximity Cloning Attacks](https://www.blackhillsinfosec.com/rfid-proximity-cloning-attacks/) : RFID attacks explained in details with examples
 * [Skeleton Key](https://pentestlab.blog/2018/04/10/skeleton-key/) : The Skeleton Key is a malware which is stored
