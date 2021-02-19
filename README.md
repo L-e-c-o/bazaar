@@ -52,6 +52,7 @@ Table of Contents
 ## [↑](#tables-of-contents) Offensive programming
 
 * [OffensiveNIM](https://github.com/byt3bl33d3r/OffensiveNim) : Weaponizing Nim for implant development and general offensive operations
+* [ConfuserEx](https://github.com/mkaring/ConfuserEx) : An open-source, free protector for .NET applications
 
 ## [↑](#table-of-contents) Misc
 
