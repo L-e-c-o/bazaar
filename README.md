@@ -7,7 +7,7 @@ Table of Contents
 
 * [Pentest](#-pentest)
 * [Red Team](#-red-team)
-* [Cobalt Strike](#-cobal-strike)
+* [Cobalt Strike](#-cobalt-strike)
 * [Linux](#-linux)
 * [Misc](#-misc)
 
