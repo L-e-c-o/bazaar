@@ -32,6 +32,7 @@ Table of Contents
 * [AMSI.fail](https://amsi.fail/) : Generates obfuscated PowerShell snippets that break or disable AMSI for the current process.
 * [C2 - SharpC2](https://github.com/SharpC2/SharpC2) : .NET Command & Control Framework by RastaMouse
 * [VBA shellcode loader](https://adepts.of0x.cc/alternatives-copy-shellcode/) : 1001 ways to load shellcode in memory from VBA Macro
+* [Trigen](https://github.com/karttoon/trigen) : Python script which uses different Win32 function calls in generated VBA to execute shellcode
 
 ## [↑](#table-of-contents) Cobalt Strike
 
