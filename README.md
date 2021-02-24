@@ -33,6 +33,7 @@ Table of Contents
 * [C2 - SharpC2](https://github.com/SharpC2/SharpC2) : .NET Command & Control Framework by RastaMouse
 * [VBA shellcode loader](https://adepts.of0x.cc/alternatives-copy-shellcode/) : 1001 ways to load shellcode in memory from VBA Macro
 * [Trigen](https://github.com/karttoon/trigen) : Python script which uses different Win32 function calls in generated VBA to execute shellcode
+* [RAT - Koadic](https://github.com/zerosum0x0/koadic) : Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire
 
 ## [↑](#table-of-contents) Cobalt Strike
 
