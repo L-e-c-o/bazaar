@@ -9,6 +9,8 @@ Table of Contents
 * [Red Team](#-red-team)
 * [Cobalt Strike](#-cobalt-strike)
 * [Linux](#-linux)
+* [Offensive programming](#-offensive-programming)
+* [Talks](#-talks)
 * [Misc](#-misc)
 
 ## [↑](#table-of-contents) Pentest
@@ -57,6 +59,10 @@ Table of Contents
 * [OffensiveNIM](https://github.com/byt3bl33d3r/OffensiveNim) : Weaponizing Nim for implant development and general offensive operations
 * [ConfuserEx](https://github.com/mkaring/ConfuserEx) : An open-source, free protector for .NET applications
 * [Abusing native functions](http://ropgadget.com/posts/abusing_win_functions.html) : Abusing native Windows functions for shellcode execution
+
+## [↑](#tables-of-contents) Talks
+
+* [Defence Evasion](https://www.youtube.com/watch?v=CUqKAaHQa14) : Securi-Tay 2020: Offensive Tradecraft - Defence Evasion - Paul Laîné
 
 ## [↑](#table-of-contents) Misc
 
