@@ -60,6 +60,7 @@ Table of Contents
 * [ConfuserEx](https://github.com/mkaring/ConfuserEx) : An open-source, free protector for .NET applications
 * [Abusing native functions](http://ropgadget.com/posts/abusing_win_functions.html) : Abusing native Windows functions for shellcode execution
 * [CallObfuscator](https://github.com/d35ha/CallObfuscator) : Obfuscate specific windows apis with different apis
+* [OffensiveC#](https://github.com/matterpreter/OffensiveCSharp) : Collection of Offensive C# Tooling
 
 ## [↑](#tables-of-contents) Talks
 
