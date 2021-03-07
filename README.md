@@ -61,6 +61,7 @@ Table of Contents
 * [Abusing native functions](http://ropgadget.com/posts/abusing_win_functions.html) : Abusing native Windows functions for shellcode execution
 * [CallObfuscator](https://github.com/d35ha/CallObfuscator) : Obfuscate specific windows apis with different apis
 * [OffensiveC#](https://github.com/matterpreter/OffensiveCSharp) : Collection of Offensive C# Tooling
+* [Universal Loader](https://github.com/Binject/universal) : Cross plateform shared library loader in Go
 
 ## [↑](#tables-of-contents) Talks
 
