@@ -21,6 +21,7 @@ Table of Contents
 * [LOLBAS](https://lolbas-project.github.io/) : Similar to GTFOBins but for Windows binary's 
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) :  FuzzDB contains comprehensive lists of attack payload primitives for fault injection testing
 * [Hackndo](https://beta.hackndo.com/kerberoasting/) : A very detailled blog covering somes Actives Directory's attacks
+* [Hashcat cheatsheet](https://github.com/frizb/Hashcat-Cheatsheet) : Hashcat Cheatsheet for OSCP
 
 ## [↑](#table-of-contents) Red Team
 
