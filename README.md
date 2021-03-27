@@ -53,6 +53,7 @@ Table of Contents
 * [365CS](https://github.com/0e0w/365CS) : Best Cobalt Strike related resources
 * [BOF Collection](https://github.com/rvrsh3ll/BOF_Collection) : Collection of useful Beacon Objet Files (BOF)
 * [Cobalt Strike BOF](https://github.com/Yaxser/CobaltStrike-BOF) : Another collection of beacon BOF
+* [Cobal Strike kits](https://github.com/0xthirteen) : Kits collections repositories
 
 ## [↑](#table-of-contents) Linux
 
