@@ -54,6 +54,7 @@ Table of Contents
 * [BOF Collection](https://github.com/rvrsh3ll/BOF_Collection) : Collection of useful Beacon Objet Files (BOF)
 * [Cobalt Strike BOF](https://github.com/Yaxser/CobaltStrike-BOF) : Another collection of beacon BOF
 * [Cobal Strike kits](https://github.com/0xthirteen) : Kits collections repositories
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) : List of Awesome CobaltStrike Resources
 
 ## [↑](#table-of-contents) Linux
 
