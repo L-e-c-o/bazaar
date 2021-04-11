@@ -39,8 +39,7 @@ Table of Contents
 * [RAT - Koadic](https://github.com/zerosum0x0/koadic) : Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire
 * [Covenant AV Evasion](https://offensivedefence.co.uk/posts/covenant-profiles-templates/) : Using Custom Covenant Listener Profiles & Grunt Templates to Elude AV
 * [Phishing Evasion](https://www.bleepingcomputer.com/news/security/phishing-sites-now-detect-virtual-machines-to-bypass-detection/amp/?__twitter_impression=true) : Evade detection by checking whether a website is visited from a virtual machine or headless device.
-
-
+* [VBA InkPickture execution](https://www.whiteoaksecurity.com/2020-3-11-alternative-execution-a-macro-saga-part-1/) : VBA macro execution on open without classic AutoOpen()
 
 ## [↑](#table-of-contents) Cobalt Strike
 
