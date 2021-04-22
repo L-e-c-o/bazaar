@@ -54,6 +54,7 @@ Table of Contents
 * [Cobalt Strike BOF](https://github.com/Yaxser/CobaltStrike-BOF) : Another collection of beacon BOF
 * [Cobal Strike kits](https://github.com/0xthirteen) : Kits collections repositories
 * [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) : List of Awesome CobaltStrike Resources
+* [Cobalt-Strike-Cheatsheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) : Some notes and examples for Cobalt Strike's functionality
 
 ## [↑](#table-of-contents) Linux
 
