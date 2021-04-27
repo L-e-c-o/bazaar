@@ -83,3 +83,4 @@ Table of Contents
 * [Invoke-Ngrok](https://github.com/benyG/Invoke-Ngrok) : Expose local port of a remote victim over Internet using Ngrok from Powershell
 * [vx-underground](https://vx-underground.org/) : The largest collection of malware source code, samples, and papers on the internet
 * [dark vortex](https://0xdarkvortex.dev/) : Blog about Red Team stuff and much more
+* [SniperPhish](https://sniperphish.com/) : An open-source phishing toolkit to simulate real-world phishing attacks that comprise phishing email and website
