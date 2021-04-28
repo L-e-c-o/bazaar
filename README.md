@@ -26,7 +26,7 @@ Table of Contents
 ## [↑](#table-of-contents) Red Team
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) :  List of Awesome Red Team resources
-* [Chimera](https://www.kitploit.com/2021/02/chimera-shiny-and-very-hack-ish.html) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
+* [Chimera](https://github.com/tokyoneon/Chimera) : PowerShell Obfuscation Script Designed To Bypass AMSI And Antivirus Solutions
 * [C2 - shad0w](https://github.com/bats3c/shad0w) : A post exploitation framework designed to operate covertly on heavily monitored environments
 * [C2 - Sliver](https://github.com/BishopFox/sliver) : Cross-platform (Go) adversary simulation/red team platform
 * [Shellcode delivery through ICMP](https://blog.romanrii.com/using-icmp-to-deliver-shellcode) : Article about using ICMP for shellcode delivery
