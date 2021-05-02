@@ -85,3 +85,5 @@ Table of Contents
 * [vx-underground](https://vx-underground.org/) : The largest collection of malware source code, samples, and papers on the internet
 * [dark vortex](https://0xdarkvortex.dev/) : Blog about Red Team stuff and much more
 * [SniperPhish](https://sniperphish.com/) : An open-source phishing toolkit to simulate real-world phishing attacks that comprise phishing email and website
+* [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) : Block Spotify ads on Windows
+* [spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) : Block Spotify ads on Linux
