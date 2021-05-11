@@ -72,6 +72,8 @@ Table of Contents
 * [OffensiveC#](https://github.com/matterpreter/OffensiveCSharp) : Collection of Offensive C# Tooling
 * [Universal Loader](https://github.com/Binject/universal) : Cross plateform shared library loader in Go
 * [VM detection in browser](https://vxug.fakedoma.in/papers/VXUG/Mirrors/bannedit.github.io-Virtual%20Machine%20Detection%20In%20The%20Browser.pdf) : Detect if page is visited from a virtual machine
+* [Coldfire](https://github.com/redcode-labs/Coldfire) : Golang malware development library
+* [Neurax](https://github.com/redcode-labs/Neurax) : A framework for constructing self-spreading binaries
 
 ## [↑](#tables-of-contents) Talks
 
