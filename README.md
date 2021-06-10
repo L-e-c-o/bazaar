@@ -57,6 +57,7 @@ Table of Contents
 * [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) : List of Awesome CobaltStrike Resources
 * [Cobalt-Strike-Cheatsheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) : Some notes and examples for Cobalt Strike's functionality
 * [Aggrokatz](https://github.com/sec-consult/aggrokatz/) : Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely
+* [RedWarden](https://github.com/mgeeky/RedWarden) : Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs
 
 ## [↑](#table-of-contents) Linux
 
