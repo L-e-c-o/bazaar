@@ -74,6 +74,7 @@ Table of Contents
 * [VM detection in browser](https://vxug.fakedoma.in/papers/VXUG/Mirrors/bannedit.github.io-Virtual%20Machine%20Detection%20In%20The%20Browser.pdf) : Detect if page is visited from a virtual machine
 * [Coldfire](https://github.com/redcode-labs/Coldfire) : Golang malware development library
 * [Neurax](https://github.com/redcode-labs/Neurax) : A framework for constructing self-spreading binaries
+* [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) : Public malware techniques used in the wild (Virtual Machine, Emulation, Debuggers, Sandbox detection)
 
 ## [↑](#tables-of-contents) Talks
 
