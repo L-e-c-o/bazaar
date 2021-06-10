@@ -79,6 +79,8 @@ Table of Contents
 ## [↑](#tables-of-contents) Talks
 
 * [Defence Evasion](https://www.youtube.com/watch?v=CUqKAaHQa14) : Securi-Tay 2020: Offensive Tradecraft - Defence Evasion - Paul Laîné
+* [Post exploitation](https://youtu.be/tWQNM2vuQEM?t=333) : Abusing Microsoft Office for Post-Exploitation - Kyle Avery
+* [EDR Evasion](https://www.youtube.com/watch?v=LXfhyTpQ7TM) : Defeating EDRs using Dynamic invocation by Jean-Francois Maes
 
 ## [↑](#table-of-contents) Misc
 
