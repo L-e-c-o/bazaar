@@ -63,6 +63,7 @@ Table of Contents
 
 * [Attacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/) : Covering in details differents attack on Active Directory
 * [Introduction to Windows tokens](https://www.elastic.co/blog/introduction-to-windows-tokens-for-security-practitioners) : Understanding of Windows access tokens
+* [ Access Token Manipulation](https://www.elastic.co/blog/how-attackers-abuse-access-token-manipulation) : How attackers abuse Access Token
 
 ## [↑](#table-of-contents) Linux
 
