@@ -59,6 +59,10 @@ Table of Contents
 * [Aggrokatz](https://github.com/sec-consult/aggrokatz/) : Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely
 * [RedWarden](https://github.com/mgeeky/RedWarden) : Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs
 
+## [↑](#table-of-contents) Active Directory
+
+* [Introduction to Windows tokens](https://www.elastic.co/blog/introduction-to-windows-tokens-for-security-practitioners) Understanding of Windows access tokens
+
 ## [↑](#table-of-contents) Linux
 
 * [ewmh-m2m](https://pypi.org/project/ewmh-m2m/) : Python script to move windows from one monitor to a other in Xfce
