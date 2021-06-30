@@ -41,6 +41,8 @@ Table of Contents
 * [Phishing Evasion](https://www.bleepingcomputer.com/news/security/phishing-sites-now-detect-virtual-machines-to-bypass-detection/amp/?__twitter_impression=true) : Evade detection by checking whether a website is visited from a virtual machine or headless device.
 * [VBA InkPickture execution](https://www.whiteoaksecurity.com/2020-3-11-alternative-execution-a-macro-saga-part-1/) : VBA macro execution on open without classic AutoOpen()
 * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth) : Simple & Powerful Powershell Script Obfuscator
+* [EDR Evasion](
+https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/edr-evasion-unhooking-dlls-part-1/) : Unhooking DLL's in C/C++
 
 ## [↑](#table-of-contents) Cobalt Strike
 
