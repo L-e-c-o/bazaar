@@ -84,7 +84,7 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 * [Coldfire](https://github.com/redcode-labs/Coldfire) : Golang malware development library
 * [Neurax](https://github.com/redcode-labs/Neurax) : A framework for constructing self-spreading binaries
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) : Public malware techniques used in the wild (Virtual Machine, Emulation, Debuggers, Sandbox detection)
-
+* [Custom C# backdoor](https://github.com/mvelazc0/defcon27_csharp_workshop) : Writing custom backdoor payloads in C#
 ## [↑](#tables-of-contents) Talks
 
 * [Defence Evasion](https://www.youtube.com/watch?v=CUqKAaHQa14) : Securi-Tay 2020: Offensive Tradecraft - Defence Evasion - Paul Laîné
