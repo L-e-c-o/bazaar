@@ -65,7 +65,7 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 
 * [Attacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/) : Covering in details differents attack on Active Directory
 * [Introduction to Windows tokens](https://www.elastic.co/blog/introduction-to-windows-tokens-for-security-practitioners) : Understanding of Windows access tokens
-* [ Access Token Manipulation](https://www.elastic.co/blog/how-attackers-abuse-access-token-manipulation) : How attackers abuse Access Token
+* [Access Token Manipulation](https://www.elastic.co/blog/how-attackers-abuse-access-token-manipulation) : How attackers abuse Access Token
 
 ## [↑](#table-of-contents) Linux
 
@@ -85,6 +85,7 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 * [Neurax](https://github.com/redcode-labs/Neurax) : A framework for constructing self-spreading binaries
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) : Public malware techniques used in the wild (Virtual Machine, Emulation, Debuggers, Sandbox detection)
 * [Custom C# backdoor](https://github.com/mvelazc0/defcon27_csharp_workshop) : Writing custom backdoor payloads in C#
+
 ## [↑](#tables-of-contents) Talks
 
 * [Defence Evasion](https://www.youtube.com/watch?v=CUqKAaHQa14) : Securi-Tay 2020: Offensive Tradecraft - Defence Evasion - Paul Laîné
@@ -101,3 +102,4 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 * [SniperPhish](https://sniperphish.com/) : An open-source phishing toolkit to simulate real-world phishing attacks that comprise phishing email and website
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) : Block Spotify ads on Windows
 * [spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) : Block Spotify ads on Linux
+* [Defeat-Defender](https://github.com/swagkarna/Defeat-Defender-V1.2.0) : Batch script to dismantle complete windows defender protection
