@@ -60,6 +60,7 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 * [Cobalt-Strike-Cheatsheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) : Some notes and examples for Cobalt Strike's functionality
 * [Aggrokatz](https://github.com/sec-consult/aggrokatz/) : Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely
 * [RedWarden](https://github.com/mgeeky/RedWarden) : Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs
+* [cs2modrewrite](https://github.com/threatexpress/cs2modrewrite) : Automatically Generate Rulesets for Apache mod_rewrite or Nginx for Intelligent HTTP C2 Redirection
 
 ## [↑](#table-of-contents) Active Directory
 
