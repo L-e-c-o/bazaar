@@ -43,6 +43,7 @@ Table of Contents
 * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth) : Simple & Powerful Powershell Script Obfuscator
 * [EDR Evasion](
 https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/edr-evasion-unhooking-dlls-part-1/) : Unhooking DLL's in C/C++
+* [Red Team Vade Mecum](https://kwcsec.gitbook.io/the-red-team-handbook/) : Gitbook with useful red team notes
 
 ## [↑](#table-of-contents) Cobalt Strike
 
