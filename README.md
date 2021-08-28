@@ -107,3 +107,4 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) : Block Spotify ads on Windows
 * [spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) : Block Spotify ads on Linux
 * [Defeat-Defender](https://github.com/swagkarna/Defeat-Defender-V1.2.0) : Batch script to dismantle complete windows defender protection
+* [Pentest-Tools](https://github.com/S3cur3Th1sSh1t/Pentest-Tools) : [S3cur3Th1sSh1t](https://twitter.com/ShitSecure)'s repo with all tool he's using when pentesting/red teaming
