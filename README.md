@@ -77,7 +77,8 @@ https://web.archive.org/web/20210519170436/https://makosecblog.com/malware-dev/e
 
 ## [↑](#tables-of-contents) Offensive programming
 
-* [OffensiveNIM](https://github.com/byt3bl33d3r/OffensiveNim) : Weaponizing Nim for implant development and general offensive operations
+* [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) : Weaponizing Nim for implant development and general offensive operations
+* [OffensiveRust](https://github.com/trickster0/OffensiveRust) : Rust Weaponization for Red Team Engagements
 * [ConfuserEx](https://github.com/mkaring/ConfuserEx) : An open-source, free protector for .NET applications
 * [Abusing native functions](http://ropgadget.com/posts/abusing_win_functions.html) : Abusing native Windows functions for shellcode execution
 * [CallObfuscator](https://github.com/d35ha/CallObfuscator) : Obfuscate specific windows apis with different apis
